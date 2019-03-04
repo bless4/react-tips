@@ -1,7 +1,11 @@
+
+# react HOOK
+React hook solve the problem of setting useState to functional components.
 #manipulating the state
 watch Max ad the age of marry after clicking the button
 setState is use to change the state by manipulating the DOM
 ****if state changes all props changes!
+***setState can only be use in class based component!***
 #React Event
 In this excise, open your chrome after the react load,  go to inspect and click the button.
 you will see " button was click" plus the number of times clicked. take note.. an event have a name and a property
