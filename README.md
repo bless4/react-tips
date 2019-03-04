@@ -1,4 +1,10 @@
 
+#React Event
+In this excise, open your chrome after the react load,  go to inspect and click the button.
+you will see " button was click" plus the number of times clicked. take note.. an event have a name and a property
+#React Events
+There are many kinds of event in react read more on:-
+https://reactjs.org/docs/events.html#supported-events
 ## Props and state
  Props and state are CORE concepts in React. Actually, only changes in the props and or state can trigger React to 
  Re-render your components and potentially update the DOM in the browser 
