@@ -1,4 +1,9 @@
 
+## Props and state
+ Props and state are CORE concepts in React. Actually, only changes in the props and or state can trigger React to 
+ Re-render your components and potentially update the DOM in the browser 
+ ##Props
+ Props allow you to pass data from a parent (Wrapping) component to the child (embedded) component.
 ## Summary of React Component.
 React component uses jsx not standard html elements.
 You name classes as className for the purpose of styling.
