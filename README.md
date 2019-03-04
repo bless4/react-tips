@@ -1,3 +1,17 @@
+
+## Summary of React Component.
+React component uses jsx not standard html elements.
+You name classes as className for the purpose of styling.
+JSX only accept one 'root' element.
+ES6 is the best practices for efficient component coding in react so that it can accept 'this' KEYWORD.
+A created component should have an import and export.
+Components are the core building block of react app.
+Components can be written in two ways:- Functional and class based components.
+The class base component is some time refers to as 'container', 'smart', or 'stateful' component.
+The advantage of component is tht we can reused component many times without  rewriting the code.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +80,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#react-tips
