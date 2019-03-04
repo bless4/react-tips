@@ -1,5 +1,8 @@
 
-# react HOOK
+###State vs statless component
+A functional(a.k.a. stateless) component is just a plain javascript function which takes props as an argument and returns a react element.A stateless component has no state(obvious, isn’t it?), it means that you can’t reach `this.state` inside it. It also has no lifecycle so you can’t use componentDidMount and other hooks.
+A functional component has no state, no lifecycle methods and it’s easy to write(plain function), a class component has state, lifecycle methods and React creates an instance of a class component every time React renders it. If you don’t need to use state or lifecycle I would recommend you to use a function component, but If there’s a chance that you need one of those things(state, lifecycle methods) I would suggest you to use class component.
+# React HOOK
 React hook solve the problem of setting useState to functional components.
 #manipulating the state
 watch Max ad the age of marry after clicking the button
