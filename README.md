@@ -1,5 +1,6 @@
-#React component external styling
-
+#React component styling
+React can be style inline of external.
+In this little example, external styling is used to show how to style a React component.
 
 #Two way binding in react
 when onChange and value — the two attributes we use to bind state to our forms — can be abstracted into a couple of simple methods-Note input fields!
