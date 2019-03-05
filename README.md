@@ -1,3 +1,8 @@
+#React component external styling
+
+
+#Two way binding in react
+when onChange and value — the two attributes we use to bind state to our forms — can be abstracted into a couple of simple methods-Note input fields!
 
 ###State vs statless component
 A functional(a.k.a. stateless) component is just a plain javascript function which takes props as an argument and returns a react element.A stateless component has no state(obvious, isn’t it?), it means that you can’t reach `this.state` inside it. It also has no lifecycle so you can’t use componentDidMount and other hooks.
